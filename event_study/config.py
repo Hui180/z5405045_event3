@@ -4,8 +4,7 @@ Configuration file for the event_study package
 """
 import os
 
-import toolkit_config as tk_cfg
-
+from project2 import toolkit_config as tk_cfg
 
 # --------------------------------------------------------
 #   Constants
